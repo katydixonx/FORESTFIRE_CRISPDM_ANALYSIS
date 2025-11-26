@@ -1,5 +1,5 @@
 
-Step 1 - Business Understanding
+Stage 1 - Business Understanding
 
 Project Objective
 Develop predictive models to identify whether the burned area of a forest fire exceeds 4%. This is a binary classification problem.

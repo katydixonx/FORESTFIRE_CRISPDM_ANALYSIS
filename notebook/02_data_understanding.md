@@ -1,6 +1,6 @@
 # Step 2 Data Understanding
 
-## 2.1 Overview of data set
+## Overview of data set
 Contains forest fire obervations with weather and fire indices and a binary target inidating whether the burned area exceeds 4%. This includes understanding variable types, distributions, and whether each varible is suitable for modelling. 
 
 Notes:
