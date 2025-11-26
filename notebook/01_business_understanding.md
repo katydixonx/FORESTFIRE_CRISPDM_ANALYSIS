@@ -20,3 +20,5 @@ Success Criteria
 
 This stage outlines the problem, te goal of the modelling, and how success will be measured before analysis begins. 
 
+Loaded the forest fire into dataset. Checked orange's automatically assigned variable types and target roles. Initial inspections. 
+
