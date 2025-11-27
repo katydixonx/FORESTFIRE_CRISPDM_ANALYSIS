@@ -73,4 +73,5 @@ RF #5	     200	None	     2	    Might overfit data	        0.862
 
 - Shallower trees, therefore less overfitting
 - Same accuracy as unlimted depth model
-- 
+
+

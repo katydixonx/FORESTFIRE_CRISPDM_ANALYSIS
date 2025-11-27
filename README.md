@@ -14,3 +14,6 @@ Assignment for CSCU9M5, following CRISP-DM methodology to build a series of mach
 - Stage 4 modelling complete 26/11/2025 2327
 - Used orange to run different models and compare CAs to test accuracy of models and find best one. 
 
+- Stage 4 evaluation complete 27/11/2025 1240
+- Used orange to summarise key inisghts from RF #2 and find overall CA. 
+
