@@ -17,3 +17,5 @@ Assignment for CSCU9M5, following CRISP-DM methodology to build a series of mach
 - Stage 4 evaluation complete 27/11/2025 1240
 - Used orange to summarise key inisghts from RF #2 and find overall CA. 
 
+- Summarised key insights from random forest model
+
